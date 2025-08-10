@@ -15,7 +15,7 @@ $user = $_SESSION['user'];
 <nav class="navbar navbar-light bg-white shadow-sm">
   <div class="container">
     <span class="navbar-brand mb-0 h5">Accountant – Pending Reports</span>
-    <a class="btn btn-outline-danger btn-sm" href="/logout.php">Logout</a>
+    <a class="btn btn-outline-danger btn-sm" href="/dsir/public/logout.php">Logout</a>
   </div>
 </nav>
 
@@ -58,3 +58,4 @@ $user = $_SESSION['user'];
 <script src="/js/accountant.js"></script>
 </body>
 </html>
+
